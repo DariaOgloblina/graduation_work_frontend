@@ -1,0 +1,15 @@
+.pagination{
+    display: flex;
+}
+.paginationItem{
+    text-align: center;
+    width: 30px;
+    margin-top: -15px;
+}
+
+li{
+    list-style-type: none;
+}
+ul {
+    padding-left: 0;
+}

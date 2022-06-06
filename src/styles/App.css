@@ -1,0 +1,47 @@
+.navbar{
+  height: 70px;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  padding: 0 15px 15px;
+  background: #fafc4f;
+}
+.logo {
+    width: 70px;
+    height: 70px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.links{
+    width: 1400px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.link__style{
+    margin-right: 20px;
+    font-size: 18px;
+    text-decoration-line: none;
+    color: black;
+}
+
+.link__style:hover{
+    color: teal;
+}
+
+.orderPageHeader{
+    margin-left: 10%;
+}
+
+.orderCountHeader{
+    margin-left: 10%;
+    color: crimson;
+}
+
+.pLoginAttention{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 12px;
+}

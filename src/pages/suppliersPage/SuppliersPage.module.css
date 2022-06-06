@@ -1,0 +1,33 @@
+.generalDiv{
+    margin: 5% 10%;
+    width: 80%;
+}
+.supplierBlockBorder{
+    height: 120px;
+    border: 1px solid silver;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.supplierBlock{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.supplierInfo{
+    margin-top: 30px;
+    text-align: center;
+    width: 24%;
+}
+
+.buttonForm{
+    position: absolute;
+    right: 0;
+    bottom: 10px;
+}
+
+.divWithCreateButton{
+    margin-left: -5%;
+    margin-bottom: 20px;
+}

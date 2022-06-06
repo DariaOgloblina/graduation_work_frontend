@@ -1,0 +1,14 @@
+.generalInfo{
+    width: 80%;
+    margin: 3% 10%;
+}
+
+.buttonForm{
+    position: absolute;
+    right: 80px;
+    bottom: 60%;
+}
+
+.divWithButtons{
+    margin-left: -5%;
+}

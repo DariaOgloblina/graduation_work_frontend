@@ -1,0 +1,25 @@
+.generalDiv{
+    margin: 5% 10%;
+    width: 80%;
+}
+
+img{
+    width: 70%;
+    height: 70%;
+    margin-left: -7%;
+}
+
+.findDiv{
+    display: flex;
+    justify-content: center;
+}
+
+.findBlock{
+    margin-left: 10%;
+}
+
+.location{
+    margin-top: 20px;
+    border: 2px dashed silver;
+    padding: 5px 10px;
+}

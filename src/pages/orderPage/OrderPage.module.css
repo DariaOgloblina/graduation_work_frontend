@@ -1,0 +1,90 @@
+.mainDiv{
+    margin: 5% 10%;
+    width: 80%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 4px solid silver;
+}
+
+.toyBlock{
+    border: 2px dashed lightblue;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    padding: 10px 10px;
+}
+
+.generalInfo{
+    display: flex;
+}
+
+.imageScale{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 100px;
+}
+
+.toyComponent{
+    display: flex;
+    vertical-align: top;
+}
+
+.toyName{
+    width: calc((80% - 200px) / 2);
+    text-align: center;
+}
+.border{
+    width: calc((80% - 200px) /4);
+    margin-left: 5%;
+    text-align: center;
+}
+
+.generalBlocks{
+    text-align: center;
+    width: 33%;
+}
+
+.colorRed{
+    color: crimson;
+    font-weight: bold;
+}
+
+.infoTextMargin{
+    margin-left: 20px;
+    margin-right: 200px;
+}
+
+.orderInfo{
+    margin-bottom: 20px;
+    display: flex;
+    vertical-align: top;
+}
+
+.boldText{
+    font-weight: bold;
+}
+
+.smallQuantity{
+    color: crimson;
+    margin-left: 75%;
+    width: 25%;
+    text-align: center;
+}
+
+.supplierInfo{
+    margin-left: 75%;
+    text-align: center;
+    font-weight: bold;
+    width: 25%;
+    margin-bottom: 10px;
+}
+
+.supplierLink{
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+.changeOrderStatus{
+    margin-left: 10px;
+}

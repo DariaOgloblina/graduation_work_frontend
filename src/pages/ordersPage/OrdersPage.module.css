@@ -1,0 +1,9 @@
+.divWithFilters{
+    display: flex;
+    vertical-align: center;
+}
+
+.divWithInputs{
+    margin-left: 10%;
+    width: 30%;
+}

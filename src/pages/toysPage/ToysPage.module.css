@@ -1,0 +1,24 @@
+.allToys{
+    margin: 5% 10%;
+    width: calc(80% + 40px);
+}
+
+.divWithFilters{
+    display: flex;
+}
+
+.filterBox{
+    width: 20%;
+}
+.selectWithSuppliers{
+    margin-top: 20px;
+ }
+
+.divWithCreateButton{
+    margin-left: -5%;
+}
+
+.h2NotFound{
+    text-align: center;
+    color: crimson;
+}

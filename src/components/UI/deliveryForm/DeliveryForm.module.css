@@ -1,0 +1,32 @@
+.toysItem{
+    display: flex;
+    border: 1px solid silver;
+    margin: 10px 10px;
+}
+
+.toysParams{
+    margin-right: 20px;
+    width: 30%;
+}
+
+.buttonsDiv{
+    display: flex;
+    justify-content: center;
+}
+
+.buttonCansel{
+    background-color: lightblue;
+}
+input, textarea{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.textareaHeight{
+    min-height: 200px;
+}
+
+.deliveryFormMaxHeight{
+    max-height: 400px;
+}

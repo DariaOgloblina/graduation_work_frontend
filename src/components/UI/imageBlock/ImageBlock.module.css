@@ -1,0 +1,28 @@
+.generalDiv{
+    background-image: url("../../../resource/background_main.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 100%;
+}
+
+.content{
+    text-align: right;
+    padding-top: 150px;
+    margin-right: 30px;
+    font-size: x-large;
+}
+
+.links{
+    margin-top: calc(250px - 10%);
+}
+
+.links a{
+    padding-left: 30px;
+    color: aliceblue;
+    text-decoration-line: none;
+}
+
+.links a:hover{
+    color: silver;
+}

@@ -1,0 +1,30 @@
+.orderDiv{
+    margin-left: 20%;
+    margin-top: 20px;
+    width: 60%;
+    height: 200px;
+    border: 3px solid lightblue;
+    border-radius: 10px;
+    background-color: rgba(122, 235, 223, 0.3);
+    display: flex;
+    overflow: hidden;
+}
+
+.orderInfo{
+    width: 600px;
+    margin-left: 30px;
+    font-family: "Helvetica Neue", sans-serif;
+}
+
+.status{
+    margin-top: 50px;
+    font-size: 20px;
+    color: crimson;
+}
+
+.amount{
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 19px;
+    font-weight: bold;
+}
